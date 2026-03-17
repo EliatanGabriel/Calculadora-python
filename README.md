@@ -17,7 +17,7 @@ Calculadora desenvolvida em Python com interface de linha de comando (CLI), perm
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/calculadora-python.git
+git clone https://github.com/EliatanGabriel/Calculadora-python
 
 2. Acesse a pasta:
 cd calculadora-python
